@@ -29,6 +29,14 @@ h3 {
   font-style: bold;
 }
 
+.intro-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  /* crops it nicely without stretching */
+}
+
 .intro-container {
   display: flex;
   align-items: center;
