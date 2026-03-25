@@ -72,9 +72,10 @@ h3 {
 }
 
 .skills span {
-  background-color: #3b4252;
+  border: 1px solid #c0caf5;
   color: #c0caf5;
-  padding: 5px 15px;
-  border-radius: 20px;
-  font-size: 16px;
+  padding: 4px 12px;
+  font-size: 14px;
+  background: none;
+  border-radius: 0;
 }
