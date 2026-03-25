@@ -1,10 +1,12 @@
 :root {
-  background-color: #1a1b2e;
+  /* background-color: #1a1b2e; */
+  background-color: #0f0f1a;
 }
 
 body {
   font-family: Jetbrains Mono Nerd Font;
-  background-color: #1a1b2e;
+  /* background-color: #1a1b2e; */
+  background-color: #0f0f1a;
   color: #c0caf5;
   font-size: 18px;
   /* color: hsl(228, 45%, 44%); */
