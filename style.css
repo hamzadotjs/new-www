@@ -51,18 +51,27 @@ h3 {
   /* add this so it doesn't stretch all the way across */
 }
 
-.project-card {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  align-items: center
-}
-
 .projects {
   display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.project-card {
+  display: flex;
   flex-direction: row;
-  gap: 20px;
-  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  border-bottom: 1px solid #4c566a;
+  padding-bottom: 40px;
+}
+
+.project-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
 }
 
 .skills {
