@@ -5,16 +5,17 @@
 
 
 /* responsive shit */
-iframe {
-  width: 100%;
-  max-width: 500px;
-  height: 300px;
-}
-
-
 @media (max-width: 768px) {
-  .project-card {
+  body {
+    margin: 20px;
+  }
+
+  .intro-container {
     flex-direction: column;
+  }
+
+  .intro-img img {
+    width: 200px;
   }
 }
 
