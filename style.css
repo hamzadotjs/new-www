@@ -3,6 +3,22 @@
   background-color: #0f0f1a;
 }
 
+
+/* responsive shit */
+iframe {
+  width: 100%;
+  max-width: 500px;
+  height: 300px;
+}
+
+
+@media (max-width: 768px) {
+  .project-card {
+    flex-direction: column;
+  }
+}
+
+
 body {
   font-family: Jetbrains Mono Nerd Font;
   /* background-color: #1a1b2e; */
