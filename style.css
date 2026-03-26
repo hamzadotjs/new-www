@@ -17,6 +17,10 @@
   .intro-img img {
     width: 200px;
   }
+
+  .project-card {
+    flex-direction: column;
+  }
 }
 
 
