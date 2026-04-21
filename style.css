@@ -68,6 +68,11 @@ h3 {
   padding-bottom: 40px;
 }
 
+iframe {
+    pointer-events: none;
+    user-select: none;
+}
+
 .project-info {
   display: flex;
   flex-direction: column;
