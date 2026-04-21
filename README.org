@@ -1,4 +1,8 @@
 * Hamzadotjs.github.io/new-www
+#+TODO: TODO | DONE
+
 ** hello and welcome to my website repo !
 This is where i host my website, and manage it to have a goo looking, and descriptive website about me
-** TODO Make the foundatin
+** DONE Make the foundatin
+** TODO Add other projects and fill the website
+** TODO CHange the URL
