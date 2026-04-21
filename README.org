@@ -3,6 +3,6 @@
 
 ** hello and welcome to my website repo !
 This is where i host my website, and manage it to have a goo looking, and descriptive website about me
-** DONE Make the foundatin
-** TODO Add other projects and fill the website
-** TODO CHange the URL
+- [X]DONE Make the foundatin
+-  [] Add other projects and fill the website
+-  [] Change the URL
