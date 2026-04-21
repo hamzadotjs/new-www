@@ -6,3 +6,4 @@ This is where i host my website, and manage it to have a goo looking, and descri
 - [X] DONE Make the foundatin
 - [ ] Add other projects and fill the website
 - [ ] Change the URL
+- DONE Gruvbox css
